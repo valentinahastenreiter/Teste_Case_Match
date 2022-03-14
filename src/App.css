@@ -1,0 +1,11 @@
+body {
+  background-color: #f9d0e2;
+  color: #f18ab7;
+  text-align: center;
+  font-family: 'Roboto Mono', monospace;
+  margin: 0;
+}
+
+.App {
+  text-align: center;
+}
